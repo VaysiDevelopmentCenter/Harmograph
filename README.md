@@ -1,8 +1,9 @@
-![Picsart_24-02-28_20-53-11-374](https://github.com/VaysiDevelopmentCenter/Harmograph/assets/151166631/0f92cdaa-39c9-40ae-8279-634ab3bc64af)
+![Picsart_24-02-28_20-57-22-229](https://github.com/VaysiDevelopmentCenter/Harmograph/assets/151166631/93d4a584-c744-4610-a784-315e5c1ee023)
+
 
 ## Harmograph: Unveiling the Symphony of Digital Models with Osiris
 
-**Harmograph** is a groundbreaking tool by Vaysi Development Center, built upon the **Osiris** Phaseccape, designed to transform conventional digital models into **holographic neural networks**. This transformation unlocks a new dimension of analysis, empowering you to:
+**Harmograph** is a groundbreaking tool by Vaysi Development Center, built upon the [**Osiris**](https://github.com/VaysiDevelopmentCenter/Osiris) Phaseccape, designed to transform conventional digital models into **holographic neural networks**. This transformation unlocks a new dimension of analysis, empowering you to:
 
 * **Detect symmetry and contradiction:** Harmograph leverages the power of Osiris to unveil inherent symmetries and contradictions within your models, providing deeper insights into their structure and behavior.
 * **Harness Bell's superdeterminism theorem:** By delving into the principles of Bell's superdeterminism theorem, Harmograph can identify the inherent **desire for expansion** within your models.
